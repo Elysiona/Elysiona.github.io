@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: O webu
 permalink: /about/
 ---
 
-Some information about you!
+Nějaké informace
 
-### More Information
+### Více informací
 
-A place to include any other types of information that you'd like to include about yourself.
+Tento web je o vlivu pralesních žab na rozpustnost sněhuláků.
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:elis-elyon@email.cz)
