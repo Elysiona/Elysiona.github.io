@@ -8,7 +8,7 @@ Nějaké informace
 
 ### Více informací
 
-Tento web je o vlivu pralesních žab na rozpustnost sněhuláků.
+Tento web je o pasiánsu
 
 ### Kontakt
 
