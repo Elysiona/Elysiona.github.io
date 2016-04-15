@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vítejte!
+title: Druhý článek
 ---
 Možná vám slovo pasiáns vůbec nic neříká, ale jsem si jistá, že ho většina z vás nejspíš znát bude, typickým příkladem je totiž Solitaire, který býval za dob starších Windowsů velmi populární.
 
